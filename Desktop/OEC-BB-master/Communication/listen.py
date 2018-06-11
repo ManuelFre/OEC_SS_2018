@@ -4,7 +4,7 @@ from Misc.helpers import debug_print
 
 
 class MessageRCV(object):
-    """ This class is used to receive messages send by the broadcaster.
+    """ This class is used to receive messages sent by the broadcaster.
 
     Args:
         message_callback_func (func pointer): func to call when a msg was received

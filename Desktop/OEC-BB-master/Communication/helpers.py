@@ -1,8 +1,7 @@
 import socket
-"""
-import fcntl
-"""
-import _winapi
+
+"""import fcntl"""
+
 import struct
 import subprocess
 import sys
